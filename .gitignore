@@ -4,3 +4,5 @@ target
 csharp/**/bin
 csharp/**/obj
 *.exe
+javascript/**/node_modules
+

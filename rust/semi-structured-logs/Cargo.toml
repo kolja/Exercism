@@ -1,0 +1,11 @@
+[package]
+name = "semi_structured_logs"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+add-a-variant = []
+
+[dependencies]
+strum = "0.24"
+strum_macros = "0.24"
